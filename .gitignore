@@ -2,3 +2,8 @@ data.txt
 venv
 .idea
 .env
+main.py
+materials.db
+test123blyyat.db
+testblyat.py
+testsqldata.py
